@@ -43,7 +43,7 @@ def main():
     parser.add_argument('--temperature', '-t', type=float, default=0.8)
     parser.add_argument('--max-moves', '-m', type=int, default=60,
                         help='Max moves per game.')
-    parser.add_argument('--num-games', '-n', type=int, default=0)
+    parser.add_argument('--num-games', '-n', type=int, default=20)
     parser.add_argument('--board-out', default='features.npy')
     parser.add_argument('--move-out', default='labels.npy')
 
