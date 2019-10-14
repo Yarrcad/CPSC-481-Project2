@@ -4,6 +4,7 @@ from dlgo.encoders.base import Encoder
 from dlgo.goboard import Point
 
 
+
 class OnePlaneEncoder(Encoder):
     def __init__(self, board_size):
         self.board_width, self.board_height = board_size
