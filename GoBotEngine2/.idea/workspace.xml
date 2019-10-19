@@ -24,17 +24,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/checkpoints" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jonat\Documents\GitHub\CPSC-481-Project2\GoBotEngine2\kgs_download" />
-      <recent name="C:\Users\jonat\Documents\GitHub\CPSC-481-Project2\GoBotEngine2" />
-      <recent name="C:\Users\jonat\Documents\GitHub\CPSC-481-Project2\GoBotEngine2\Ch6\generated_games" />
-      <recent name="C:\Users\jonat\PycharmProjects\GoBotEngine2\Ch6" />
-      <recent name="C:\Users\jonat\PycharmProjects\GoBotEngine2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jonat\Documents\GitHub\CPSC-481-Project2\GoBotEngine2\checkpoints" />
       <recent name="C:\Users\jonat\PycharmProjects\GoBotEngine2\generated_games" />
       <recent name="C:\Users\jonat\PycharmProjects\GoBotEngine2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonat\Documents\GitHub\CPSC-481-Project2\GoBotEngine2\dlgo\networks" />
+      <recent name="C:\Users\jonat\Documents\GitHub\CPSC-481-Project2\GoBotEngine2\dlgo\networks\ReLU" />
+      <recent name="C:\Users\jonat\Documents\GitHub\CPSC-481-Project2\GoBotEngine2\kgs_download" />
+      <recent name="C:\Users\jonat\Documents\GitHub\CPSC-481-Project2\GoBotEngine2" />
+      <recent name="C:\Users\jonat\Documents\GitHub\CPSC-481-Project2\GoBotEngine2\Ch6\generated_games" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -49,71 +49,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.t">
-    <configuration name="leaky" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GoBotEngine2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leaky.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="oneplane" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GoBotEngine2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dlgo/encoders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dlgo/encoders/oneplane.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="t" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GoBotEngine2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="train_generator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.train_generator2">
+    <configuration name="train_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GoBotEngine2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="train_generator2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GoBotEngine2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kgs_download" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jonat\Documents\GitHub\CPSC-481-Project2\GoBotEngine2\kgs_download\train_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kgs_download/train_generator2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.t" />
-        <item itemvalue="Python.train_generator (1)" />
+        <item itemvalue="Python.train_generator2" />
         <item itemvalue="Python.train_generator" />
-        <item itemvalue="Python.oneplane" />
-        <item itemvalue="Python.leaky" />
       </list>
     </recent_temporary>
   </component>
